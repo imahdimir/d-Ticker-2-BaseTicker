@@ -1,6 +1,9 @@
 {
-    "description": "Tickers to BaseTickers Map",
-    "Columns Names": [
+    "description": "Unique Base Tickers on TSETMC.com",
+    "source": [],
+    "nrows": 8750,
+    "ncols": 2,
+    "colsNames": [
         "Ticker",
         "BaseTicker"
     ]
