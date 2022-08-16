@@ -1,0 +1,7 @@
+{
+    "description": "Tickers to BaseTickers Map",
+    "Columns Names": [
+        "Ticker",
+        "BaseTicker"
+    ]
+}
